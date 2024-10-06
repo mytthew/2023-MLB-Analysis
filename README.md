@@ -4,6 +4,7 @@
 Baseball has become more and more analytical over the years, so why not use some recently acquired data analytics tools to analyze 2023 MLB data. No matter whether you’re a die-hard baseball fan or a complete beginner, the insights and takeaways from this project will help you better understand player and team performance and potentially help you find your new favorite team or player. 
 
 **Project Workflow:**
+
 **Data Gathering and Storage:** I visited Kaggle to find a dataset that includes 2023 MLB performance data. 
 
 I created an ERD using QuickDB to design my database schema and then uploaded my data into PostgreSQL
