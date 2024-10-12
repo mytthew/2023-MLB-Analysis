@@ -24,6 +24,5 @@ Separately, I created a Tableau dashboard to visualize the data.
 
 **TABLEAU DASHBOARD LINK:** https://public.tableau.com/views/2023MLBAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
-**LINK TO DATASET:
-** https://www.kaggle.com/datasets/vivovinco/2023-mlb-player-stats?resource=download
+**LINK TO DATASET:** https://www.kaggle.com/datasets/vivovinco/2023-mlb-player-stats?resource=download
 
